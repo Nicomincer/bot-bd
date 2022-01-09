@@ -1,0 +1,6 @@
+README.md/
+.gitattributes/ 
+package-lock.json/
+node_modules/
+info1.js
+info2.js
